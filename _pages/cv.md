@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* 2021 - 2024: Ph.D in Economics, Paris School of Economics (expected)
-* 2020 - 2021: Master of Public Administration, AgroParisTech and PontsParisTech
+* 2021 - 2024: Ph.D in Economics, [Paris School of Economics](https://www.parisschoolofeconomics.eu/) (expected)
+* 2020 - 2021: Master of Public Administration: Public Policy and Sustainable Development, AgroParisTech and PontsParisTech
 * 2019 - 2020: Master of Science in Economics, Paris School of Economics
 * 2019 - 2021: Master of Engineering from PontsParistech
 * 2016 - 2021: Engineering degree from Ecole polytechnique (X2016)
@@ -20,8 +20,8 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* Summer 2021: Junior Consultant
+  * [Inspection Générale des Finances](https://www.igf.finances.gouv.fr/sites/igf/accueil.html)
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
