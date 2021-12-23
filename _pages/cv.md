@@ -27,7 +27,7 @@ Work experience
 * Summer 2021: Junior Consultant
   * [Inspection Générale des Finances](https://www.igf.finances.gouv.fr/sites/igf/accueil.html)
   * Duties included: Consulting missions for the [French Ministry for the Economy and Finance](https://www.economie.gouv.fr/welcome-to-the-french-ministry-for-the-economy-and-finance)
-  * Supervisor: [Yves Mathis](https://fr.linkedin.com/in/yves-mathis-93a28714a) and [Antonin Nguyen](https://fr.linkedin.com/in/antonin-nguyen-7b817aaa)
+  * Supervisors: [Yves Mathis](https://fr.linkedin.com/in/yves-mathis-93a28714a) and [Antonin Nguyen](https://fr.linkedin.com/in/antonin-nguyen-7b817aaa)
   
 Skills
 ======
