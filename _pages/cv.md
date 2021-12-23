@@ -20,10 +20,14 @@ Education
 
 Work experience
 ======
+* 2021 - 2024 (expected): Ph.D student in Economics
+  * [Paris School of Economics](https://www.parisschoolofeconomics.eu/), affiliated with [IIASA](https://iiasa.ac.at/)
+  * Thesis title: Essays on climate change and population dynamics
+  * Supervisors: [Katheline Schubert](https://www.parisschoolofeconomics.eu/fr/schubert-katheline/) and [Raya Muttarak](https://iiasa.ac.at/web/home/research/researchPrograms/WorldPopulation/Staff/Raya-Muttarak.en.html)
 * Summer 2021: Junior Consultant
   * [Inspection Générale des Finances](https://www.igf.finances.gouv.fr/sites/igf/accueil.html)
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Duties included: Consulting missions for the [French Ministry for the Economy and Finance](https://www.economie.gouv.fr/welcome-to-the-french-ministry-for-the-economy-and-finance)
+  * Supervisor: Yves Mathis and Antonin Nguyen
 
 * Fall 2015: Research Assistant
   * Github University
