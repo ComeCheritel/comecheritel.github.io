@@ -11,10 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Economics, Paris School of Economics
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2021 - 2024: Ph.D in Economics, Paris School of Economics (expected)
+* 2020 - 2021: Master of Public Administration, AgroParisTech and PontsParisTech
+* 2019 - 2020: Master of Science in Economics, Paris School of Economics
+* 2019 - 2021: Master of Engineering from PontsParistech
+* 2016 - 2021: Engineering degree from Ecole polytechnique (X2016)
+* 2014 -2016: Two-year study course preparing for the competitive entrance examinations to the French ‘Grandes Écoles’ (the top French and highly-selective institutions), Lycée Louis-le-Grand
 
 Work experience
 ======
