@@ -26,8 +26,12 @@ Work experience
   * Supervisors: [Katheline Schubert](https://www.parisschoolofeconomics.eu/fr/schubert-katheline/) and [Raya Muttarak](https://iiasa.ac.at/web/home/research/researchPrograms/WorldPopulation/Staff/Raya-Muttarak.en.html)
 * Summer 2021: Junior Consultant
   * [Inspection Générale des Finances](https://www.igf.finances.gouv.fr/sites/igf/accueil.html)
-  * Duties included: Consulting missions for the [French Ministry for the Economy and Finance](https://www.economie.gouv.fr/welcome-to-the-french-ministry-for-the-economy-and-finance)
+  * Strategic consulting missions for the [French Ministry for the Economy and Finance](https://www.economie.gouv.fr/welcome-to-the-french-ministry-for-the-economy-and-finance)
   * Supervisors: [Yves Mathis](https://fr.linkedin.com/in/yves-mathis-93a28714a) and [Antonin Nguyen](https://fr.linkedin.com/in/antonin-nguyen-7b817aaa)
+
+* September 2020 - January 2020 : Consultant
+  * Consutling project for the Public Policy and Sustainable Development Master of Public Administration
+  * Subject of the project: how to anticipate in a crisis situation related to the field of competence of the [French Minstry of the Ecological Transition](https://www.ecologie.gouv.fr/)
   
 Skills
 ======
