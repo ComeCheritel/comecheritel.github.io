@@ -47,10 +47,10 @@ Work experience
   * [Sogea Satom](https://www.sogea-satom.com/sogea-satom/sogea-satomv2.nsf/web/actu_realisation_de_30_km_de_reseau_dassainissement_a_kampala_(ouganda).htm&lng=L1) ([VINCI](https://www.vinci.com/vinci.nsf/en/index.htm) Group), Kampala, Uganda
   * Three-month internship: Supervision of the Nakivubo and Kinawataka Main Sewers Project, a central sewerage system for the city of Kampala and studies for the Katosi Water Treatment Plant Project, drinking water supply network
 
-* Aspirant, Army, Varces.
+* September 2016 - April 2017: Officer Cadet
   * [French land forces](https://www.defense.gouv.fr/terre)
   * Military training at the [Écoles de Saint-Cyr Coëtquidan](https://www.st-cyr.terre.defense.gouv.fr/), now known as the Académie militaire de Saint-Cyr Coëtquidan (AMSCC)
-  * Training officer within the 27th Mountain Command and Communication Company: preparation for the company's projection on Barkhane and Sentinelle operation.
+  * Training officer within the [27th Mountain Command and Communication Company](https://www.defense.gouv.fr/terre/l-armee-de-terre/le-niveau-divisionnaire/1re-division/27e-brigade-d-infanterie-de-montagne) in Varces: preparation for the company's projection on Barkhane and Sentinelle operation.
 
 
 Publications
