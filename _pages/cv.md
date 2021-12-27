@@ -29,18 +29,14 @@ Work experience
   * Strategic consulting missions for the [French Ministry for the Economy and Finance](https://www.economie.gouv.fr/welcome-to-the-french-ministry-for-the-economy-and-finance)
   * Supervisors: [Yves Mathis](https://fr.linkedin.com/in/yves-mathis-93a28714a) and [Antonin Nguyen](https://fr.linkedin.com/in/antonin-nguyen-7b817aaa)
 
-* September 2020 - January 2020 : Consultant
+* September 2020 - January 2020: Consultant
   * Consutling project for the Public Policy and Sustainable Development Master of Public Administration
   * Subject of the project: how to anticipate in a crisis situation related to the field of competence of the [French Minstry of the Ecological Transition](https://www.ecologie.gouv.fr/)
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+ 
+ * March 2020 -  May 2020: Data analyst and statistician
+  * [Assistance publique - Hopitaux de Paris](https://www.aphp.fr/) (Paris hospitals)
+  * Member of the crisis unit of the Paris hospitals during the first wave of covid-19 in charge of the creation of the dashboard for monitoring the crisis as well as various quantitative analyses (analysis of patient flows, [early indicators of intensive care unit bed requirement](https://doi.org/10.1371/journal.pone.0241406)...)
+
 
 Publications
 ======
