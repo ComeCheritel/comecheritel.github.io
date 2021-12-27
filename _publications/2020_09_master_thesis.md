@@ -2,7 +2,7 @@
 title: "A stylized model for energy, population, the economy, and the environment"
 collection: publications
 permalink: /publication/2020_09_master_thesis
-excerpt: 'You can find here the work I produced for my master thesis under the supervision of [Hippolyte d'Albis](https://sites.google.com/site/hdalbis/) and [Katheline Schubert](https://www.parisschoolofeconomics.eu/fr/schubert-katheline/). I present here an attempt at a model linking energy consumption, population dynamics, economic dynamics and the impacts of global warming. It should be noted that this is incomplete and unfinished work which I intend to return to in the context of my Ph.D thesis.'
+excerpt: 'You can find here the work I produced for my master thesis under the supervision of Hippolyte d'Albis and Katheline Schubert. I present here an attempt at a model linking energy consumption, population dynamics, economic dynamics and the impacts of global warming. It should be noted that this is incomplete and unfinished work which I intend to return to in the context of my Ph.D thesis.'
 date: August 2020
 venue: 'Paris School of Economics Master Thesis'
 paperurl: 'http://comecheritel.github.io/files/CHERITEL_Come_A_stylized_model_for_energy_population_the_economy_and_the_environment.pdf'
