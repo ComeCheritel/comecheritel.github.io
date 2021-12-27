@@ -34,8 +34,10 @@ Work experience
   * Subject of the project: how to anticipate in a crisis situation related to the field of competence of the [French Minstry of the Ecological Transition](https://www.ecologie.gouv.fr/)
  
  * March 2020 -  May 2020: Data analyst and statistician
-  * [Assistance publique - Hopitaux de Paris](https://www.aphp.fr/) (Paris hospitals)
+  * [Assistance Publique - Hopitaux de Paris](https://www.aphp.fr/) (Paris hospitals)
   * Member of the crisis unit of the Paris hospitals during the first wave of covid-19 in charge of the creation of the dashboard for monitoring the crisis as well as various quantitative analyses (analysis of patient flows, [early indicators of intensive care unit bed requirement](https://doi.org/10.1371/journal.pone.0241406)...)
+  * Supervisors: [Frédéric Batteux](https://fr.linkedin.com/in/fr%C3%A9d%C3%A9ric-batteux-b8483111) and [Clémence Marty-Chastan](https://fr.linkedin.com/in/cl%C3%A9mence-marty-chastan-63a5b88)
+
 
 
 Publications
