@@ -31,7 +31,7 @@ Work experience
 
 * September 2020 - January 2020: Consultant
   * Consutling project for the Public Policy and Sustainable Development Master of Public Administration
-  * Subject of the project: how to anticipate in a crisis situation related to the field of competence of the [French Minstry of the Ecological Transition](https://www.ecologie.gouv.fr/)
+  * Subject of the project: how to anticipate in a crisis situation related to the field of competence of the [French Ministry of the Ecological Transition](https://www.ecologie.gouv.fr/)
 
 * March 2020 -  May 2020: Data analyst and statistician
   * [Assistance Publique - Hopitaux de Paris](https://www.aphp.fr/) (Paris hospitals), Paris, France
