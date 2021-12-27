@@ -1,16 +1,20 @@
 ---
-title: "A stylized model_for_energy population the economy and the environment"
+title: "A stylized model for energy, population, the economy, and the environment"
 collection: publications
 permalink: /publication/2020_09_master_thesis
-excerpt: 'The purpose of this abstract and presentation is to present a compact climate module that can be used to make certain IAMs more accurate and relevant. This climate module is calibrated in a Bayesian manner and thus makes it possible to highlight the impact of uncertainty for robust decision making'
+excerpt: 'You can find here the work I produced for my master thesis. I present here an attempt at a model linking energy consumption, population dynamics, economic dynamics and the impacts of global warming. It should be noted that this is incomplete and unfinished work which I intend to return to in the context of my Ph.D thesis.'
 date: August 2020
 venue: 'Paris School of Economics Master Thesis'
-paperurl: 'https://doi.org/10.5194/egusphere-egu21-15363'
-citation: 'Gasser, T., Baklanov, A., Rezai, A., Chéritel, C., and Obersteiner, M.: A Bayesian-inferred physical module to estimate robust mitigation pathways with cost-benefit IAMs, EGU General Assembly 2021, online, 19–30 Apr 2021, EGU21-15363, https://doi.org/10.5194/egusphere-egu21-15363, 2021.'
+paperurl: ''
+citation: 'Cheritel, C.: A stylized model for energy, population, the economy, and the environment, Paris School of Economics Master Thesis, 2020.'
 ---
-The purpose of this abstract and presentation is to present a compact climate module that can be used to make certain IAMs more accurate and relevant. This climate module is calibrated in a Bayesian manner and thus makes it possible to highlight the impact of uncertainty for robust decision making.
 
-Download [the abstract here](https://meetingorganizer.copernicus.org/EGU21/EGU21-15363.html?pdf) and [the presentation there](https://presentations.copernicus.org/EGU21/EGU21-15363_presentation-h312250.pdf).
+[comment]: <> (Vous pouvez trouver ici le travail que j'ai produit dans le cadre de ma thèse de master. Je présente ici une tentative de modèle mettant en relation la consommation énergétique, la dynamique de la population, la dynamique économique et les impacts du réchauffement climatique. Il est à noter qu'il s'agit d'un travail incomplet et encore inabouti sur lequel je compte revenir dans le cadre de ma thèse.)
 
-Recommended citation:   Gasser, T., Baklanov, A., Rezai, A., Chéritel, C., and Obersteiner, M.: A Bayesian-inferred physical module to estimate robust mitigation pathways with cost-benefit IAMs, EGU General Assembly 2021, online, 19–30 Apr 2021, EGU21-15363, https://doi.org/10.5194/egusphere-egu21-15363, 2021.
+You can find here the work I produced for my master thesis. I present here an attempt at a model linking energy consumption, population dynamics, economic dynamics and the impacts of global warming. It should be noted that this is incomplete and unfinished work which I intend to return to in the context of my Ph.D thesis.
 
+In all integrated assessment models, demography is fixed exogenously by some scenario elements and therefore cannot vary in response to the effects of global warming. In order to bridge this gap, I construct and present a stylized integrated model that portrays endogenous fertility, energy consumption, economic production and the consequences of climate change. This model is built on three pillars: we use a two-sector central unified growth theory framework, whose production function features non-substituability between traditional factor of production and energy in the spirit of ecological economics. Emissions arising from this energy use result in global warming. Finally, this rise in temperature implies differentiated effects of climate change on economic sectors that have consequences on the whole economy and society. With numerical simulation, I assess the attractive performance of the model on 300 years of history and I deem that it provides prospective estimates of interesting quality. Furthermore this model appears quite promising as some improvements and extensions might be of prime interest in order to assess climate policy.
+
+Download [the paper here](http://comecheritel.github.io/files/CHERITEL_Come_A_stylized_model_for_energy_population_the_economy_and_the_environment.pdf) and [the presentation there](http://comecheritel.github.io/blob/master/files/Master_thesis_defense_Come_Cheritel.pdf).
+
+Recommended citation:   Cheritel, C.: A stylized model for energy, population, the economy, and the environment, Paris School of Economics Master Thesis, 2020.
