@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ce site est actuellement en construction, revenez plus tard pour voir la version achevée - This site is currently under construction, come back later to see the finished version - last update 2021/12/27 - academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Ce site est actuellement en construction, revenez plus tard pour voir la version achevée - This site is currently under construction, come back later to see the finished version - last update 2021/12/27"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
