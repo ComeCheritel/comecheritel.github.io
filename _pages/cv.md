@@ -44,12 +44,13 @@ Work experience
   * Supervisor: [Thomas Gasser](https://scholar.google.fr/citations?user=fjpNQPgAAAAJ&hl=fr)
 
 * June 2018 - August 2018: Assistant project manager
-  * Sogea Satom (VINCI Group), Kampala, Uganda
+  * [Sogea Satom](https://www.sogea-satom.com/sogea-satom/sogea-satomv2.nsf/web/actu_realisation_de_30_km_de_reseau_dassainissement_a_kampala_(ouganda).htm&lng=L1) ([VINCI](https://www.vinci.com/vinci.nsf/en/index.htm) Group), Kampala, Uganda
   * Three-month internship: Supervision of the Nakivubo and Kinawataka Main Sewers Project, a central sewerage system for the city of Kampala and studies for the Katosi Water Treatment Plant Project, drinking water supply network
 
 * Aspirant, Army, Varces.
-  * Training at the Écoles de Saint-Cyr Coëtquidan then 
-  * training officer within the 27th Mountain Command and Communication Company: preparation for the company's projection on Barkhane and Sentinelle.
+  * [French land forces](https://www.defense.gouv.fr/terre)
+  * Military training at the [Écoles de Saint-Cyr Coëtquidan](https://www.st-cyr.terre.defense.gouv.fr/), now known as the Académie militaire de Saint-Cyr Coëtquidan (AMSCC)
+  * Training officer within the 27th Mountain Command and Communication Company: preparation for the company's projection on Barkhane and Sentinelle operation.
 
 
 Publications
