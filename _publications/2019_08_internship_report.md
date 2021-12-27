@@ -1,7 +1,7 @@
 ---
 title: "A Bayesian-inferred physical module to estimate robust mitigation pathways with cost-benefit IAMs"
 collection: publications
-permalink: /publication/2021_SCC_EGU
+permalink: /publication/2019_08_internship_report
 excerpt: 'The purpose of this abstract and presentation is to present a compact climate module that can be used to make certain IAMs more accurate and relevant. This climate module is calibrated in a Bayesian manner and thus makes it possible to highlight the impact of uncertainty for robust decision making'
 date: 19–30 Apr 2021
 venue: 'EGU General Assembly 2021'
