@@ -17,7 +17,7 @@ Education
 * 2019 - 2021: Master of Engineering from [École des Ponts ParisTech](https://www.ecoledesponts.fr/)
 * 2017 - 2018: Bachelor of Arts in History, [Université Paris Nanterre](https://www.parisnanterre.fr/)
 * 2016 - 2021: Engineering degree, [École polytechnique](https://www.polytechnique.edu/) (X2016)
-* 2014 -2016: Two-year study course preparing for the competitive entrance examinations to the French ‘Grandes Écoles’ (the top French and highly-selective institutions), [Lycée Louis-le-Grand](https://www.louislegrand.fr/)
+* 2014 -2016: Classe Préparatoire au Grandes Écoles, a two-year sintensive track preparing for the competitive entrance examinations to the French ‘Grandes Écoles’ (the top French and highly-selective institutions), [Lycée Louis-le-Grand](https://www.louislegrand.fr/)
 
 Work experience
 ======
