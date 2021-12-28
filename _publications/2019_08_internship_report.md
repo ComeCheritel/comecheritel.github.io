@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2019_08_internship_report
 excerpt: 'You can find here the report produced following my research internship at the end of my 3rd year at the Ecole Polytechnique. I did this internship at IIASA under the supervision of Thomas Gasser and worked on the links between climate uncertainty and the social cost of carbon.'
 date: August 2019
+uncertainty_SCC : true
 venue: 'Ecole polytechnique third year research internship report'
 paperurl: ''
 citation: 'Cheritel, C.: Assessing the climate uncertainty over the Social Cost of Carbon, Ecole polytechnique third year research internship report, 2019.'
