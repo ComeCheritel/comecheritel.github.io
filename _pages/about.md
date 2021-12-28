@@ -15,7 +15,7 @@ This website is mainly written in English. You can, however, find a presentation
 A propos
 ----
 
-Je m'appelle Côme Cheritel et je suis doctorant en économie à [Paris School of Economics](https://www.parisschoolofeconomics.eu/) sous la direction de [Katheline Schubert](https://www.parisschoolofeconomics.eu/fr/schubert-katheline/) et [Raya Muttarak](https://iiasa.ac.at/web/home/research/researchPrograms/WorldPopulation/Staff/Raya-Muttarak.en.html). Dans le cadre de ma thèse, je suis aussi chercheur invité au [IIASA](https://iiasa.ac.at/) au sein du groupe de recherche Migration and Sustainable Development du département Population and Just Societies. Je réalise cette thèse dans le cadre de mon premier poste en tant qu'ingénieur du corps des Ponts, des Eaux et des Forêts, haut fonctionnaire rattaché au [ministère de la Transition Ecologique](https://www.ecologie.gouv.fr/).
+Je m'appelle Côme Cheritel et je suis doctorant en économie à [Paris School of Economics](https://www.parisschoolofeconomics.eu/) sous la direction de [Katheline Schubert](https://www.parisschoolofeconomics.eu/fr/schubert-katheline/) et [Raya Muttarak](https://iiasa.ac.at/web/home/research/researchPrograms/WorldPopulation/Staff/Raya-Muttarak.en.html). Dans le cadre de ma thèse, je suis aussi chercheur invité au [IIASA](https://iiasa.ac.at/) au sein du groupe de recherche Migration and Sustainable Development du département Population and Just Societies. Je réalise cette thèse dans le cadre de mon premier poste en tant qu'ingénieur du corps des Ponts, des Eaux et des Forêts, haut fonctionnaire rattaché au [ministère de la Transition Ecologique](https://www.ecologie.gouv.fr/). Quand je ne suis entrain de travailler sur ma recherche, je suis probabalement entrain de faire de l'escalade, ou de boire un verre avec des amis !
 
 Contact
 ---
@@ -35,9 +35,6 @@ Parcours
 Mon parcours jusqu'ici peut se retrouver en détail dans mon cv que vous pouvez découvrir à [l'onglet dédié](https://comecheritel.github.io/cv/) ou bien télécharger [au lien suivant](http://comecheritel.github.io/files/CV_Come_CHERITEL.pdf). Après une formation de deux ans en classe préparatoire aux grandes écoles option physique chimie au lycée Louis-le-Grand, j'ai intégré le cycle ingénieur de l'École polytechnique au sein de la promotion X2016. J'y ai suivi un enseignement en mathématiques, mathématiques appliquées, physique, économie et biologie, tandis qu'en parallèle j'ai suivi une licence d'histoire de l'[université Paris Nanterre](). J'ai commencé à m'intéresser aux questions environnementales et climatiques à la suite de mon stage en entreprise en Ouganda et d'un cours d'économie du climat donné par une équipe d'économistes de l'[Agence Française de Développement](https://www.afd.fr/fr). Ainsi, j'ai effectué mon stage de recherche au IIASA sous la supervision de [Thomas Gasser](https://scholar.google.fr/citations?user=fjpNQPgAAAAJ&hl=fr) et ai étudié [l'impact de l'incertitude liée au climat sur le Coût Social du Carbone](https://comecheritel.github.io/publication/2019_08_internship_report). Ce premier travail de recherche m'a notamment conduit à m'intéresser aux scénarios de population, un sujet que j'ai souhaité continuer à explorer dans le cadre de ma thèse de [master APE](https://www.parisschoolofeconomics.eu/fr/formation/masters/ape-analyse-et-politique-economiques/) sous la supervision de de [Katheline Schubert](https://www.parisschoolofeconomics.eu/fr/schubert-katheline/) et [Hippolyte d'Albis](https://sites.google.com/site/hdalbis/). J'ai ensuite achevé mon cursus de l'[École Nationale des Ponts et Chaussées](https://www.ecoledesponts.fr/) en suivant le [mastère spécialisé Politique et Action Publique pour le développement durable](https://www.ecoledesponts.fr/mastere-specialise-papdd-politiques-actions-publiques-developpement-durable), la formation de référence des ingénieurs du corps des Ponts, des Eaux et des Forêts, co-organisée par [AgroParisTech](http://www2.agroparistech.fr/) et l'[École Nationale des Ponts et Chaussées](https://www.ecoledesponts.fr/). J'ai alors effectué mon stage en administration et mon projet de fin d'étude au sein de l'Inspection Générale des Finances avant de débuter ma thèse.
 
 
-Divers
-----
-Escalade et passions diverses
 
 Dernière mise à jour le 28 décembre 2021
 
@@ -53,8 +50,6 @@ Research Interests
 Background
 ----
 
-Miscellaneous
----
 
 Last update on the 28th of december 2021
 
