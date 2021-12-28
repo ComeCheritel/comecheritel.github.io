@@ -6,7 +6,7 @@ excerpt: 'You can find here the report produced following my research internship
 date: August 2019
 venue: 'Ecole polytechnique third year research internship report'
 paperurl: ''
-citation: ' Cheritel, C.: Assessing the climate uncertainty over the Social Cost of Carbon, Ecole polytechnique third year research internship report, 2019.'
+citation: 'Cheritel, C.: Assessing the climate uncertainty over the Social Cost of Carbon, Ecole polytechnique third year research internship report, 2019.'
 ---
 
 [comment]: <> (Vous pouvez trouver ci-joint le rapport produit à la suite de mon stage de recherche à la fin de la 3e année de mon cursus de l'Ecole polytechnique. J'ai effectué ce stage au IIASA sous la supervision de Thomas Gasser et j'ai travaillé sur les liens existant entre incertitude climat et coût social du carbone.)
