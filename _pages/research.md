@@ -19,7 +19,6 @@ Related publications
 {%- assign U_SCC = site.publications | where: "uncertainty_SCC", "true" -%}
 {%- for post in U_SCC -%}
   {% include archive-single-cv.html %}
-  {{- post.title -}}
 {%- endfor -%}
 </ul>
 
