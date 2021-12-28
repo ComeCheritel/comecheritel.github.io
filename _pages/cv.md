@@ -21,7 +21,7 @@ Education
 
 Work experience
 ======
-* 2021 - 2024 (expected): Ph.D student in Economics
+* 2021 - 2024 (expected): Ph.D candidate in Economics
   * [Paris School of Economics](https://www.parisschoolofeconomics.eu/), affiliated with [IIASA](https://iiasa.ac.at/), Paris, France
   * Thesis title: Essays on climate change and population dynamics
   * Supervisors: [Katheline Schubert](https://www.parisschoolofeconomics.eu/fr/schubert-katheline/) and [Raya Muttarak](https://iiasa.ac.at/web/home/research/researchPrograms/WorldPopulation/Staff/Raya-Muttarak.en.html)
@@ -43,6 +43,7 @@ Work experience
   * [IIASA](https://iiasa.ac.at/), Laxenburg, Austria
   * Integrated modelling of the climate-economic system, study of [climate uncertainty on the Social Cost of Carbon](https://comecheritel.github.io/publication/2019_08_internship_report) with the SSP scenarios
   * Supervisor: [Thomas Gasser](https://scholar.google.fr/citations?user=fjpNQPgAAAAJ&hl=fr)
+  * For this internship, I have been awarded the "Grand prix du stage de recherche en économie"
   
  * September 2018 - January 2019: Research project with [Théo Guichaoua](https://fr.linkedin.com/in/th%C3%A9o-guichaoua-177517151), [Raphaël Lafrogne-Joussier](https://crest.science/user/rapha%C3%ABl-lafrogne-joussier/) and [Vincent Rollet](https://sites.google.com/site/vjrollet/home)
    * [Crest](https://crest.science/), Palaiseau, France
