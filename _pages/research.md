@@ -13,18 +13,26 @@ redirect_from:
 Uncertainty and the Social Cost of Carbon
 ======
 
+Related publications
+----
+<ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Impact of the age structure and population dynamics on carbon emissions
 ======
+
 
 Integrating endogenous population dynamics in climate-economics scenarios
 ======
 
-
-Publications
-======
-  <ul>{% for post in site.publications %}
+Related publications
+----
+<ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+
   
 
 
