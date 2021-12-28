@@ -33,9 +33,12 @@ Integrating endogenous population dynamics in climate-economics scenarios
 
 Related publications
 ----
-<ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ul>
+{%- assign endog_pop = site.publications | where: "endogenous_population", "true" -%}
+{%- for post in endog_pop -%}
+  {% include archive-single-cv.html %}
+{%- endfor -%}
+</ul>
 
 
   
