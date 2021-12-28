@@ -13,7 +13,7 @@ Education
 ======
 * 2021 - 2024: Ph.D in Economics, [Paris School of Economics](https://www.parisschoolofeconomics.eu/) (expected)
 * 2020 - 2021: Master of Public Administration: Public Policy and Sustainable Development, [AgroParisTech](http://www2.agroparistech.fr/) and [École des Ponts ParisTech](https://www.ecoledesponts.fr/)
-* 2019 - 2020: Master of Science in Economics, [Paris School of Economics](https://www.parisschoolofeconomics.eu/)
+* 2019 - 2020: Master of Science in Economics, [Paris School of Economics](https://www.parisschoolofeconomics.eu/), <i>summa cum laude<i>
 * 2019 - 2021: Master of Engineering from [École des Ponts ParisTech](https://www.ecoledesponts.fr/)
 * 2017 - 2018: Bachelor of Arts in History, [Université Paris Nanterre](https://www.parisnanterre.fr/)
 * 2016 - 2021: Engineering degree, [École polytechnique](https://www.polytechnique.edu/) (X2016)
@@ -43,6 +43,8 @@ Work experience
   * [IIASA](https://iiasa.ac.at/), Laxenburg, Austria
   * Integrated modelling of the climate-economic system, study of climate uncertainty on the Social Cost of Carbon with the SSP scenarios
   * Supervisor: [Thomas Gasser](https://scholar.google.fr/citations?user=fjpNQPgAAAAJ&hl=fr)
+  
+ * September 2018 - January 2019: 
 
 * June 2018 - August 2018: Assistant project manager
   * [Sogea Satom](https://www.sogea-satom.com/sogea-satom/sogea-satomv2.nsf/web/actu_realisation_de_30_km_de_reseau_dassainissement_a_kampala_(ouganda).htm&lng=L1) ([VINCI](https://www.vinci.com/vinci.nsf/en/index.htm) Group), Kampala, Uganda
