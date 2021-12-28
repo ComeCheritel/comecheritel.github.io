@@ -41,12 +41,12 @@ Work experience
 
 * March 2019 - August 2019: Associate Researcher
   * [IIASA](https://iiasa.ac.at/), Laxenburg, Austria
-  * Integrated modelling of the climate-economic system, study of climate uncertainty on the Social Cost of Carbon with the SSP scenarios
+  * Integrated modelling of the climate-economic system, study of [climate uncertainty on the Social Cost of Carbon](https://comecheritel.github.io/publication/2019_08_internship_report) with the SSP scenarios
   * Supervisor: [Thomas Gasser](https://scholar.google.fr/citations?user=fjpNQPgAAAAJ&hl=fr)
   
  * September 2018 - January 2019: Research project with [Théo Guichaoua](https://fr.linkedin.com/in/th%C3%A9o-guichaoua-177517151), [Raphaël Lafrogne-Joussier](https://crest.science/user/rapha%C3%ABl-lafrogne-joussier/) and [Vincent Rollet](https://sites.google.com/site/vjrollet/home)
    * [Crest](https://crest.science/), Palaiseau, France
-   * Subject: Modeling crops returns to secure the food supply chain
+   * Subject: [Modeling crops returns to secure the food supply chain](https://comecheritel.github.io/publication/2019_03_P3A)
    * Supervisors: [Pierre Picard](https://sites.google.com/view/pierrepicardeconomics/home) and [Alexis Louaas](https://sites.google.com/site/alexislouaas/)
 
 * June 2018 - August 2018: Assistant project manager
