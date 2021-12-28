@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Bonjour et bienvenue sur mon site ! Hi, and welcome on my website !
+Bonjour et bienvenue sur mon site ! Hi, and welcome to my website !
 ====
 
 A propos
