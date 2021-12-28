@@ -29,7 +29,7 @@ En matière de thématiques de recherche, je m'intéresse aux liens entre change
 
 Pour le traiter,je souhaiterais ...
 
-Pour plus d'informations, vous pouvez jeter un oeil à [l'onglet idoine](https://comecheritel.github.io/research/).
+Pour plus d'informations, vous pouvez jeter un oeil à [l'onglet dédié](https://comecheritel.github.io/research/).
 
 Parcours
 ----
