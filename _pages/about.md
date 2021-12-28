@@ -41,15 +41,27 @@ Dernière mise à jour le 28 décembre 2021
 About me
 ----
 
+My name is Côme Cheritel and I am a PhD student in Economics at [Paris School of Economics](https://www.parisschoolofeconomics.eu/) under the supervision of [Katheline Schubert](https://www.parisschoolofeconomics.eu/fr/schubert-katheline/) and [Raya Muttarak](https://iiasa.ac.at/web/home/research/researchPrograms/WorldPopulation/Staff/Raya-Muttarak.en.html). For my thesis, I am also a visiting researcher at [IIASA](https://iiasa.ac.at/) in the Migration and Sustainable Development research group of the Population and Just Societies department. I am doing this thesis as part of my first job as an engineer in the Corps des Ponts, des Eaux et des Forêts, a senior civil servant attached to the [Ministry of Ecological Transition](https://www.ecologie.gouv.fr/). When I'm not working on my research, I'm probably climbing, or having a drink with friends!
+
 Contact
+---
+
+You can contact me by mail at come[dot]cheritel[at]psemail[dot]eu.
+
+
+Research interest
 ----
 
-Research Interests
-----
+In terms of research themes, I am interested in the links between climate change and the economy, both at the physical level by developing a compact climate model, and at the micro-economic level by studying the determinants of greenhouse gas emissions around the world. In addition, my career path has led me to question the construction of climate economy scenarios used in the scientific community and in particular the place of the population in these scenarios. Thus, my thesis topic is about the reciprocal links between demography and global warming and is entitled "Essays on global warming and population dynamics". To address this, I would first like to study the links between demographic structure and carbon footprint, then address the impacts of global warming on population determinants - fertility, mortality and migration, and finally develop climate-economic scenarios that take into account the impacts of global warming on economic development as well as on  population dynamics.
+
+For more information, you can have a look at [the dedicated tab](https://comecheritel.github.io/research/).
 
 Background
 ----
+My career path so far can be found in detail in my cv which you can discover at [the dedicated tab](https://comecheritel.github.io/cv/) or download [at the following link](http://comecheritel.github.io/files/CV_Come_CHERITEL.pdf). After a two-year preparatory class for the Grandes Ecoles with a major in physics and chemistry at the Lycée Louis-le-Grand, I entered the engineering program at the École Polytechnique as part of the X2016 class. There I studied mathematics, applied mathematics, physics, economics and biology, while at the same time I took a degree in history at the [University of Paris Nanterre](). I became interested in environmental and climate issues following my internship in Uganda and a course on climate economics given by a team of economists from the [Agence Française de Développement](https://www.afd.fr/fr). Thus, I did my research internship at IIASA under the supervision of [Thomas Gasser](https://scholar.google.fr/citations?user=fjpNQPgAAAAJ&hl=fr) and studied [the impact of climate uncertainty on the Social Cost of Carbon](https://comecheritel.github.io/publication/2019_08_internship_report). This first research work led me to become interested in population scenarios, a subject I wanted to continue exploring in the framework of my [master APE](https://www.parisschoolofeconomics.eu/en/formation/masters/ape-analyse-et-politique-economiques/) thesis under the supervision of [Katheline Schubert](https://www.parisschoolofeconomics.eu/en/schubert-katheline/) and [Hippolyte d'Albis](https://sites.google.com/site/hdalbis/). I then completed my studies at the [École Nationale des Ponts et Chaussées](https://www.ecoledesponts.fr/) by taking the [master's degree in Public Policy and Action for Sustainable Development](https://www.ecoledesponts.fr/mastere-specialise-papdd-politiques-actions-publiques-developpement-durable), the reference course for engineers of the Corps des Ponts, des Eaux et des Forêts, co-organised by [AgroParisTech](http://www2.agroparistech.fr/) and the [École Nationale des Ponts et Chaussées](https://www.ecoledesponts.fr/). I then did my internship in administration and my end-of-study project at the Inspection Générale des Finances before starting my thesis.
 
 
-Last update on the 28th of december 2021
+
+Last updated on 28 December 2021
+
 
