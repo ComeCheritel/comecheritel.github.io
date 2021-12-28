@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ce site est actuellement en construction, revenez plus tard pour voir la version achevée - This site is currently under construction, come back later to see the finished version - last update 2021/12/27"
+title: "Ce site est actuellement en construction, revenez plus tard pour voir la version achevée - This site is currently under construction, come back later to see the finished version - last update 2021/12/28"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,27 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-Bonjour et bienvenue sur mon site ! Hi, and welcome to my website !
+Bonjour, bienvenue sur mon site ! Hi, welcome to my website !
 ====
 
 A propos
 ----
 
-Je m'appelle Côme Cheritel et je suis doctorant en économie à [Paris School of Economics]() sous la direction de [Katheline Schubert]() et [Raya Muttarak](). Dans le cadre de ma thèse, je suis aussi chercheur invité au [IIASA]() au sein du groupe de recherche Migration and Sustainable Development du département Population and Just Societies. Je réalise cette thèse dans le cadre de mon premier poste en tant qu'ingénieur du corps des Ponts, des Eaux et des Forêts, haut fonctionnaire rattaché au ministère de la Transition Ecologique.
+Je m'appelle Côme Cheritel et je suis doctorant en économie à [Paris School of Economics](https://www.parisschoolofeconomics.eu/) sous la direction de [Katheline Schubert](https://www.parisschoolofeconomics.eu/fr/schubert-katheline/) et [Raya Muttarak](https://iiasa.ac.at/web/home/research/researchPrograms/WorldPopulation/Staff/Raya-Muttarak.en.html). Dans le cadre de ma thèse, je suis aussi chercheur invité au [IIASA](https://iiasa.ac.at/) au sein du groupe de recherche Migration and Sustainable Development du département Population and Just Societies. Je réalise cette thèse dans le cadre de mon premier poste en tant qu'ingénieur du corps des Ponts, des Eaux et des Forêts, haut fonctionnaire rattaché au ministère de la Transition Ecologique.
 
 Contact
 ---
 
-Vous pouvez me contacter 
+Vous pouvez me contacter par mail à come[dot]cheritel[at]psemail[dot]eu.
 
-Thématique de recherche
+
+Thématiques de recherche
 ----
 
 En matière de thématiques de recherche, je m'intéresse aux liens entre changement climatique et économie, que ce soit sur le plan physique en développant un modèle climat compact, que le plan micro-économique en étudiant les déterminants des émissions de gaz à effet de serre autour du monde. Par ailleurs, mon parcours m'amené à m'interroger sur la construction des scénarios économie climat utilisés dans la communautée scientifique et en particulier de la place de la population dans ces derniers. Ainsi, mon sujet de thèse porte sur les liens réciproques entre démographie et réchauffement climatique  et s'intitule "Essais sur le réchauffement climatique et la dynamique des populations".
 
 Pour le traiter,je souhaiterais ...
 
-Plus d'information à l'onglet research projects
+Pour plus d'informations, vous pouvez jeter un oeil à [l'onglet idoine](https://comecheritel.github.io/research/).
 
 Parcours
 ----
@@ -37,7 +38,7 @@ Ma parcours jusqu'ici peut se retrouver dans mon [cv au lien suivant](). Après 
 
 Divers
 ----
-Escalade et passions
+Escalade et passions diverses
 
 Dernière mise à jour le 28 décembre 2021
 
@@ -47,7 +48,7 @@ About me
 Contact
 ----
 
-Research Interest
+Research Interests
 ----
 
 Background
