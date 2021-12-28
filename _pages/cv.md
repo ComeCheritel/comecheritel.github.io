@@ -44,7 +44,10 @@ Work experience
   * Integrated modelling of the climate-economic system, study of climate uncertainty on the Social Cost of Carbon with the SSP scenarios
   * Supervisor: [Thomas Gasser](https://scholar.google.fr/citations?user=fjpNQPgAAAAJ&hl=fr)
   
- * September 2018 - January 2019: 
+ * September 2018 - January 2019: Research project with [Théo Guichaoua](https://fr.linkedin.com/in/th%C3%A9o-guichaoua-177517151), [Raphaël Lafrogne-Joussier](https://crest.science/user/rapha%C3%ABl-lafrogne-joussier/) and [Vincent Rollet](https://sites.google.com/site/vjrollet/home)
+  * [Crest](https://crest.science/), Palaiseau, France
+  * Subject: Modeling crops returns to secure the food supply chain
+  * Supervisors: [Pierre Picard](https://sites.google.com/view/pierrepicardeconomics/home) and [Alexis Louaas](https://sites.google.com/site/alexislouaas/)
 
 * June 2018 - August 2018: Assistant project manager
   * [Sogea Satom](https://www.sogea-satom.com/sogea-satom/sogea-satomv2.nsf/web/actu_realisation_de_30_km_de_reseau_dassainissement_a_kampala_(ouganda).htm&lng=L1) ([VINCI](https://www.vinci.com/vinci.nsf/en/index.htm) Group), Kampala, Uganda
