@@ -15,7 +15,7 @@ Uncertainty and the Social Cost of Carbon
 
 Related publications
 ----
-<ul>{% for 2021_04_SCC_EGU in site.publications %}
+<ul>{% select 2021_04_SCC_EGU in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
