@@ -22,12 +22,7 @@ Related publications
   {{- post.title -}}
 {%- endfor -%}
 </ul>
-  
-{%- assign U_SCC = site.publications | where: "uncertainty_SCC", "true" -%}
-{%- for post in U_SCC -%}
-  {% include archive-single-cv.html %}
-  {{- post.title -}}
-{%- endfor -%}
+
 
 
 Impact of the age structure and population dynamics on carbon emissions
