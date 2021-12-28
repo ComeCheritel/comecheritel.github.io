@@ -13,7 +13,7 @@ Education
 ======
 * 2021 - 2024: Ph.D in Economics, [Paris School of Economics](https://www.parisschoolofeconomics.eu/) (expected)
 * 2020 - 2021: Master of Public Administration: Public Policy and Sustainable Development, [AgroParisTech](http://www2.agroparistech.fr/) and [École des Ponts ParisTech](https://www.ecoledesponts.fr/)
-* 2019 - 2020: Master of Science in Economics, [Paris School of Economics](https://www.parisschoolofeconomics.eu/), <i>summa cum laude<i>
+* 2019 - 2020: Master of Science in Economics, [Paris School of Economics](https://www.parisschoolofeconomics.eu/), *summa cum laude*
 * 2019 - 2021: Master of Engineering from [École des Ponts ParisTech](https://www.ecoledesponts.fr/)
 * 2017 - 2018: Bachelor of Arts in History, [Université Paris Nanterre](https://www.parisnanterre.fr/)
 * 2016 - 2021: Engineering degree, [École polytechnique](https://www.polytechnique.edu/) (X2016)
