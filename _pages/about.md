@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Ce site est majoritairement rédigé en anglais. Vous pouvez en trouver une présentation ci-dessous et une autre en anglais plus bas.
-This website is mainly written in English. You can, however, find a presentation in french below and another in English just after.
+Ce site est majoritairement rédigé en anglais. Vous pouvez, toutefois, en trouver une présentation en français ci-dessous et une autre en anglais juste après.
+
+This website is mainly written in English. However, You shall find a presentation in french below and another one in English just after.
 
 A propos
 ----
