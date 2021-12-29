@@ -39,7 +39,10 @@ The goal of this empirical project is to study the impact of the demographic str
 
 Integrating endogenous population dynamics in climate-economics scenarios
 ======
-Coucou
+In the scenarios considered in the economics and climate scientific community, population dynamics is fixed exogenously and is used as a driver for Integrated Assessment Models (IAMs). In particular, these models ignore the feedbacks of climate change on the economy, as well as on population dynamics. Furthermore, they cannot consider the effect of demographic deviation on the economy, since, population as well as GDP are the basis and cornerstone of these scenario: there is a potential huge methodological blindspot in the field of prospective modelling.
+
+The goal of this project is thus to propose a framework that allow to propose scenarios that endogenously take into account the impact of climate change on population and on the economy.
+
 
 Related publications
 ----
