@@ -10,8 +10,10 @@ redirect_from:
 {% include base_path %}
 
 
-Uncertainty and the Social Cost of Carbon
+Climate Uncertainty and the Social Cost of Carbon
 ======
+With [Thomas Gasser](https://scholar.google.fr/citations?user=fjpNQPgAAAAJ&hl=en), [Armon Rezai](https://www.wu.ac.at/ecolecon/institute/team/arezai), [Artem Baklanov](https://www.hse.ru/en/org/persons/228998876) and [Michael Obersteiner](https://scholar.google.fr/citations?user=sl5sPKIAAAAJ&hl=en)
+
 
 Related publications
 ----
