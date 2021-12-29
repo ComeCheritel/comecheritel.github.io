@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ce site est actuellement en construction, revenez plus tard pour voir la version achevée - This site is currently under construction, come back later to see the finished version - last update 2021/12/28 - Bonjour, bienvenue sur mon site ! Hi, welcome to my website !"
+title: "Ce site est actuellement en construction, revenez plus tard pour voir la version achevée - This site is currently under construction, come back later to see the finished version - last update 2021/12/29 - Bonjour, bienvenue sur mon site ! Hi, welcome to my website !"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -35,7 +35,7 @@ Mon parcours jusqu'ici peut se retrouver en détail dans mon cv que vous pouvez 
 
 
 
-Dernière mise à jour le 28 décembre 2021
+Dernière mise à jour le 29 décembre 2021
 
 About me
 ----
@@ -61,6 +61,6 @@ My career path so far can be found in detail in my cv which you can discover at 
 
 
 
-Last updated on 28 December 2021
+Last updated on 29 December 2021
 
 
