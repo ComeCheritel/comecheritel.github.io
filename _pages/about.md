@@ -36,7 +36,7 @@ Mon parcours jusqu'ici peut se retrouver en détail dans mon cv que vous pouvez 
 
 
 
-Dernière mise à jour le 29 décembre 2021
+Dernière mise à jour le 3 janvier 2022
 
 About me
 ----
@@ -62,6 +62,6 @@ My career path so far can be found in detail in my cv which you can discover at 
 
 
 
-Last updated on 29 December 2021
+Last updated on the 3rd of january 2022
 
 
