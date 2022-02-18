@@ -37,6 +37,7 @@ My career path so far can be found in detail in my cv which you can discover at 
 
 
 Last updated on the 3rd of january 2022
+
 A propos
 ----
 
