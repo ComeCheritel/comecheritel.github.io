@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bonjour, bienvenue sur mon site ! Hi, welcome to my website !"
+title: "Hi, welcome to my website! Bonjour, bienvenue sur mon site !"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
