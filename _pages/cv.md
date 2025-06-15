@@ -21,9 +21,11 @@ Education
 
 Work experience
 ======
-* 2021 - 2024 (expected): Ph.D candidate in Economics
-  * [Paris School of Economics](https://www.parisschoolofeconomics.eu/), affiliated with [IIASA](https://iiasa.ac.at/), Paris, France
-  * Thesis title: Essays on climate change and population dynamics
+* 2024 - today : Deputy head of unit
+  * Direction Générale du Trésor
+* 2021 - 2024 : Ph.D candidate in Economics and Statistics
+  * [Paris School of Economics](https://www.parisschoolofeconomics.eu/) and [Alma Mater Studiorum - Università di Bologna](https://www.unibo.it/it), also affiliated with [IIASA](https://iiasa.ac.at/)
+  * Thesis title: Essays on climate change, uncertainty and population dynamics
   * Supervisors: [Katheline Schubert](https://www.parisschoolofeconomics.eu/fr/schubert-katheline/) and [Raya Muttarak](https://iiasa.ac.at/web/home/research/researchPrograms/WorldPopulation/Staff/Raya-Muttarak.en.html)
 * Summer 2021: Junior Consultant
   * [Inspection Générale des Finances](https://www.igf.finances.gouv.fr/sites/igf/accueil.html), Paris, France
