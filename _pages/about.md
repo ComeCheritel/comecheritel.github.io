@@ -15,7 +15,7 @@ Ce site est majoritairement rédigé en anglais. Toutefois, vous pouvez en trouv
 About me
 ----
 
-My name is Côme Cheritel and I am a researcher in climate economics and demography. I defended my PhD in conomics and statistics at [Paris School of Economics](https://www.parisschoolofeconomics.eu/) on the 04/10/2024 under the supervision of [Katheline Schubert](https://www.parisschoolofeconomics.eu/fr/schubert-katheline/) (Paris School of Economics and Université Paris 1) and [Raya Muttarak](https://www.unibo.it/sitoweb/raya.muttarak) (Alma Mater Studiorum - Università di Bologna). I also am a visiting researcher at [IIASA](https://iiasa.ac.at/) in the Migration and Sustainable Development research group of the Population and Just Societies department. 
+My name is Côme Cheritel and I am a researcher in climate economics and demography. I defended my PhD in economics and statistics at [Paris School of Economics](https://www.parisschoolofeconomics.eu/) on the 04/10/2024 under the supervision of [Katheline Schubert](https://www.parisschoolofeconomics.eu/fr/schubert-katheline/) (Paris School of Economics and Université Paris 1) and [Raya Muttarak](https://www.unibo.it/sitoweb/raya.muttarak) (Alma Mater Studiorum - Università di Bologna). I also am a visiting researcher at [IIASA](https://iiasa.ac.at/) in the Migration and Sustainable Development research group of the Population and Just Societies department. 
 
 I am currently working at the [French Treasury](https://www.tresor.economie.gouv.fr/), supervising the [Agence Française de Développement (AFD)](https://www.afd.fr/en) as an engineer in the Corps des Ponts, des Eaux et des Forêts.
 
