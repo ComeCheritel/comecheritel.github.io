@@ -15,12 +15,14 @@ Ce site est majoritairement rédigé en anglais. Toutefois, vous pouvez en trouv
 About me
 ----
 
-My name is Côme Cheritel and I am a PhD student in Economics at [Paris School of Economics](https://www.parisschoolofeconomics.eu/) under the supervision of [Katheline Schubert](https://www.parisschoolofeconomics.eu/fr/schubert-katheline/) and [Raya Muttarak](https://iiasa.ac.at/web/home/research/researchPrograms/WorldPopulation/Staff/Raya-Muttarak.en.html). For my thesis, I am also a visiting researcher at [IIASA](https://iiasa.ac.at/) in the Migration and Sustainable Development research group of the Population and Just Societies department. I am doing this thesis as my first job as an engineer in the Corps des Ponts, des Eaux et des Forêts, an executive civil servant position at the [Ministry of Ecological Transition](https://www.ecologie.gouv.fr/). When I'm not working on my research, I'm probably climbing, or having a drink with friends!
+My name is Côme Cheritel and I am a resseracher in climate economics and dempgraphy. I defended my PhD in conomics and statistics at [Paris School of Economics](https://www.parisschoolofeconomics.eu/) on the 04/10/2024 under the supervision of [Katheline Schubert](https://www.parisschoolofeconomics.eu/fr/schubert-katheline/) (Paris School of Economics and Université Paris 1) and [Raya Muttarak](https://www.unibo.it/sitoweb/raya.muttarak) (Alma Mater Studiorum - Università di Bologna). I also am a visiting researcher at [IIASA](https://iiasa.ac.at/) in the Migration and Sustainable Development research group of the Population and Just Societies department. 
+
+I am currently working for the [French Treasury](https://www.tresor.economie.gouv.fr/), supervising the [Agence Française de Développement (AFD)](https://www.afd.fr/en) as an engineer in the Corps des Ponts, des Eaux et des Forêts.
 
 Contact
 ---
 
-You can contact me by mail at come[dot]cheritel[at]psemail[dot]eu.
+You can contact me by mail at name[dot]surname[at]gmail[dot]com
 
 
 Research interest
@@ -36,7 +38,7 @@ My career path so far can be found in detail in my cv which you can discover at 
 
 
 
-Last updated on the 3rd of january 2022
+Last updated on the 15/06/2025
 
 A propos
 ----
