@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Côme Cheritel"
   avatar           : "IMG_2714_1.jpg"
-  bio              : "Ph.D student in economics at <a style='color: black;' href='https://www.parisschoolofeconomics.eu/'>Paris School of Economics</a>, guest researcher affiliated to the Migration and Sustainable Development Research Group of the Population and Just Societies Program at the <a style='color: black;' href='https://iiasa.ac.at/'>International Institute for Applied Systems Analysis</a>, and also Ingénieur des Ponts, des Eaux et des Forêts"
+  bio              : "Researcher in climate economics and demography currently working at <a style='color: black;' href='https://www.tresor.economie.gouv.fr/'>French Treasury</a> as an Ingénieur des Ponts, des Eaux et des Forêts"
   location         : "Paris, France"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "come-cheritel"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-9529-2346"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  UTMB             : "https://utmb.world/fr/runner/5271186.come.cheritel"
 
 
 # Reading Files
