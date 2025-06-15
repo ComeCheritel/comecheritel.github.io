@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* 2021 - 2024: Ph.D in Economics, [Paris School of Economics](https://www.parisschoolofeconomics.eu/) (expected)
+* 2021 - 2024: Ph.D in Economics and Statistics, [Paris School of Economics](https://www.parisschoolofeconomics.eu/) and  [Alma Mater Studiorum - Università di Bologna](https://www.unibo.it/it) 
 * 2020 - 2021: Master of Public Administration: Public Policy and Sustainable Development, [AgroParisTech](http://www2.agroparistech.fr/) and [École des Ponts ParisTech](https://www.ecoledesponts.fr/)
 * 2019 - 2020: Master of Science in Economics, [Paris School of Economics](https://www.parisschoolofeconomics.eu/), *summa cum laude*
 * 2019 - 2021: Master of Engineering from [École des Ponts ParisTech](https://www.ecoledesponts.fr/)
