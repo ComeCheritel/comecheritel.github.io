@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, welcome to my website! Bonjour, bienvenue sur mon site !"
+title: "Côme Cheritel"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -43,12 +43,14 @@ Last updated on the 15/06/2025
 A propos
 ----
 
-Je m'appelle Côme Cheritel et je suis doctorant en économie à [Paris School of Economics](https://www.parisschoolofeconomics.eu/) sous la direction de [Katheline Schubert](https://www.parisschoolofeconomics.eu/fr/schubert-katheline/) et [Raya Muttarak](https://iiasa.ac.at/web/home/research/researchPrograms/WorldPopulation/Staff/Raya-Muttarak.en.html). Dans le cadre de ma thèse, je suis aussi chercheur invité au [IIASA](https://iiasa.ac.at/) au sein du groupe de recherche Migration and Sustainable Development du département Population and Just Societies. Je réalise cette thèse dans le cadre de mon premier poste en tant qu'ingénieur du corps des Ponts, des Eaux et des Forêts, haut fonctionnaire rattaché au [ministère de la Transition Ecologique](https://www.ecologie.gouv.fr/). Quand je ne suis pas en train de travailler sur ma recherche, je suis probabalement en train de faire de l'escalade, ou de boire un verre avec des amis !
+Je m'appelle Côme Cheritel et je suis chercheur en économie du climat et en démographie. J'ai soutenu ma thèse de doctorat en économie et en statistique à la [Paris School of Economics](https://www.parisschoolofeconomics.eu/) le 04/10/2024, sous la direction de [Katheline Schubert](https://www.parisschoolofeconomics.eu/fr/schubert-katheline/) (Paris School of Economics et Université Paris 1) et de [Raya Muttarak](https://www.unibo.it/sitoweb/raya.muttarak) (Alma Mater Studiorum - Università di Bologna). Je suis également chercheur invité à l'[IIASA](https://iiasa.ac.at/), au sein du groupe de recherche sur la migration et le développement durable du département *Population and Just Societies*.
+
+Je travaille actuellement à la [Direction Générale du Trésor](https://www.tresor.economie.gouv.fr/), où je supervise l'[Agence Française de Développement (AFD)](https://www.afd.fr/en) en tant qu’ingénieur du Corps des Ponts, des Eaux et des Forêts.
 
 Contact
 ---
 
-Vous pouvez me contacter par mail à come[dot]cheritel[at]psemail[dot]eu.
+Vous pouvez me contacter par mail à prénom[dot]nom[at]gmail[dot]com.
 
 
 Thématiques de recherche
